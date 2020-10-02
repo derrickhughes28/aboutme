@@ -1,0 +1,30 @@
+
+
+       ul{
+           font-size: 3rem;
+       }
+   .name {
+       color:teal;
+   }
+ body {
+     background-color: oldlace;
+    text-align: center;
+ 
+ }
+  h1{
+      font-size: 3rem;
+  }
+ li{
+  list-style-type:  none;
+
+ }
+ .picture {
+    border-color: teal;
+    border-width: 5px;
+    border-style: solid;
+ }
+ @media (max-width: 400px) { 
+    p{
+    font-size: 30px
+    }
+ }
